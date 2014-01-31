@@ -1,5 +1,5 @@
 
-var ui = require('dombo-ui');
+var ui = require('ui');
 
 ui('tabs', {
     active: 0

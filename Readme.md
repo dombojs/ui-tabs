@@ -1,5 +1,5 @@
 
-# dombo-ui-tabs
+# ui-tabs
 
   dombo tabs component
 
@@ -7,7 +7,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install dombojs/dombo-ui-tabs
+    $ component install dombojs/ui-tabs
 
 ## Options
 

@@ -1,11 +1,11 @@
 {
-  "name": "dombo-ui-tabs",
-  "repo": "dombojs/dombo-ui-tabs",
+  "name": "ui-tabs",
+  "repo": "dombojs/ui-tabs",
   "description": "dombo tabs component",
   "version": "0.0.1",
   "keywords": ["dom", "dombo", "suitcss"],
   "dependencies": {
-    "dombojs/dombo-ui": "*"
+    "dombojs/ui": "*"
   },
   "development": {},
   "license": "MIT",
